@@ -24,4 +24,4 @@ jobs:
     steps:
       - checkout
 
-      - run: cat /dev/null | sbt run
+      - run: cat /dev/null | sbt test
