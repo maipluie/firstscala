@@ -1,5 +1,5 @@
 object Main extends App{
     // Your code here!
 
-    Array("Hot", "tools", "rule", "everything!").foreach(println)
+    Array("Hot", "22", "tools", "break", "everything!").foreach(println)
 }
