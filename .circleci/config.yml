@@ -9,4 +9,4 @@ jobs:
       TERM: dumb
     steps:
       - checkout
-      - run: sbt "testOnly SampleClass1Test.case1"
+      - run: sbt "testOnly SampleClass1.case1"
