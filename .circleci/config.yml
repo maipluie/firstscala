@@ -24,4 +24,4 @@ jobs:
     steps:
       - checkout
 
-      - run: sbt "test SampleClass1.case1"
+      - run: sbt test
