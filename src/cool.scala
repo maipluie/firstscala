@@ -1,3 +1,5 @@
+package firstscala
+
 object Main extends App{
     // Your code here!
 
