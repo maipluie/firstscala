@@ -9,4 +9,4 @@ jobs:
       TERM: dumb
     steps:
       - checkout
-      - run: sbt test "firstscala.SampleClass1Test"
+      - run: sbt "testOnly firstscala.SampleClass1Test"
